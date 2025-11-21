@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Estou atualmente estudando agentes de IA e aprofundando meus conhecimentos em programação
+- Meu site! https://miguel20br.github.io/portfolio/
+
