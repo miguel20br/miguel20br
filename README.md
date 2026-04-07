@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Meu site! https://miguel20br.github.io/portfolio/
 -->
 
-- Estou atualmente estudando agentes de IA e aprofundando meus conhecimentos em programação
-- Meu site! https://miguel20br.github.io/portfolio/
+- Estou atualmente estudando IA e aprofundando meus conhecimentos em programação
+- Dev @Bowe
 
